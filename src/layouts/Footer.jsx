@@ -1,5 +1,7 @@
 import React from 'react';
 import styled from '@emotion/styled';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faInstagram, faFacebookF } from '@fortawesome/free-brands-svg-icons';
 
 const Wrapper = styled.footer`
   position: relative;
@@ -21,13 +23,33 @@ const Text = styled.div`
   color: ${props => props.theme.colors.white.light};
 `;
 
+const Link = styled.a`
+  color: white;
+  padding: 5px;
+`;
+
 const Footer = () => (
   <Wrapper>
     <Text>
-      <span>
-        Gatsby Tutorial Starter -{' '}
-        <a href="https://justinformentin.com">Justin Formentin</a>
-      </span>
+      <div className="icon">
+        Follow me on
+        <div>
+        <Link
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://www.instagram.com/gharwalaswad/"
+        >
+          <FontAwesomeIcon icon={faInstagram} />
+        </Link>
+        <Link
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://www.facebook.com/Gharwalaswad"
+        >
+          <FontAwesomeIcon icon={faFacebookF} />
+        </Link>
+        </div>  
+      </div>
     </Text>
   </Wrapper>
 );
