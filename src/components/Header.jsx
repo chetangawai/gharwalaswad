@@ -23,7 +23,7 @@ const Wrapper = styled.header`
 `;
 
 const Text = styled.div`
-  color: ${props => props.theme.colors.white.base};
+  color: ${props => props.theme.colors.black.base};
   z-index: 0;
   position: absolute;
   top: 50%;
@@ -41,14 +41,14 @@ const Text = styled.div`
 
 const Subtitle = styled.p`
   max-width: 650px;
-  color: ${props => props.theme.colors.white.light};
+  color: ${props => props.theme.colors.black.light};
 `;
 
 const Header = ({ children, title, date }) => (
   <Wrapper>
     <Text>
-      <h1>{title}</h1>
-      <h3>{date}</h3>
+      <h2>{title}</h2>
+      {date && <h3>{date}</h3>}
 
       {children && <Subtitle>{children}</Subtitle>}
     </Text>
