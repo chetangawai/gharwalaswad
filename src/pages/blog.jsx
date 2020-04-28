@@ -20,6 +20,7 @@ const Blog = ({ data }) => {
           date={node.frontmatter.date}
           tags={node.frontmatter.tags}
           excerpt={node.excerpt}
+          images={node.excerpt.images}
         />
       ))}
     </Layout>
@@ -61,6 +62,17 @@ export const query = graphql`
             path
             tags
             date(formatString: "MM.DD.YYYY")
+            images {
+              childImageSharp {
+                fluid(
+                  maxWidth: 1000
+                  quality: 90
+                  traceSVG: { color: "#2B2B2F" }
+                ) {
+                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
+                }
+              }
+            }
             cover {
               childImageSharp {
                 fluid(

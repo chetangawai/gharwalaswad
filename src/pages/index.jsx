@@ -29,7 +29,7 @@ const Index = ({ data }) => {
       <PostWrapper>
         {edges.map(({ node }) => {
           const { id, excerpt, frontmatter } = node;
-          const { cover, path, title, date } = frontmatter;
+          const { cover, path, title, date, images } = frontmatter;
           return (
             <PostList
               key={id}
@@ -38,6 +38,7 @@ const Index = ({ data }) => {
               title={title}
               date={date}
               excerpt={excerpt}
+              images={images}
             />
           );
         })}
@@ -84,6 +85,17 @@ export const query = graphql`
             path
             tags
             date(formatString: "MM.DD.YYYY")
+            images {
+              childImageSharp {
+                fluid(
+                  maxWidth: 1000
+                  quality: 90
+                  traceSVG: { color: "#2B2B2F" }
+                ) {
+                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
+                }
+              }
+            }
             cover {
               childImageSharp {
                 fluid(

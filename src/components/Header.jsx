@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from '@emotion/styled';
-import Img from 'gatsby-image';
 import PropTypes from 'prop-types';
+import { formatDate } from './../utils';
 
 const Wrapper = styled.header`
   -webkit-clip-path: polygon(100% 0, 0 0, 0 70%, 50% 100%, 100% 70%);
@@ -11,7 +11,7 @@ const Wrapper = styled.header`
     clip-path: polygon(100% 0, 0 0, 0 90%, 50% 100%, 100% 90%);
   }
   background: ${props => props.theme.gradient.rightToLeft};
-  height: 300px;
+  height: 150px;
   @media (max-width: ${props => props.theme.breakpoints.m}) {
     height: 300px;
   }
@@ -48,7 +48,7 @@ const Header = ({ children, title, date }) => (
   <Wrapper>
     <Text>
       <h2>{title}</h2>
-      {date && <h3>{date}</h3>}
+      <p> {date && `By Chetan | ${formatDate(date)}`}</p>
 
       {children && <Subtitle>{children}</Subtitle>}
     </Text>
