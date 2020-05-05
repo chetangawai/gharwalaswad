@@ -8,26 +8,28 @@ const Wrapper = styled.footer`
   color: ${props => props.theme.colors.black.light};
   padding-bottom: 2rem;
   position: relative;
+  width: 100%;
   bottom: 0;
   box-shadow: ${props => props.theme.shadow.footer};
   background: ${props => props.theme.gradient.leftToRight};
   font-family: ${props => props.theme.fontFamily.body};
   font-weight: 500;
   @media (max-width: ${props => props.theme.breakpoints.s}) {
-    padding-top: 7rem;
+    padding-top: 1rem;
   }
-  display: flex;
-  padding: 20px;
+  padding: 2rem;
 `;
 
 const Text = styled.div`
   margin-left: auto;
   order: 2;
+  float: right;
 `;
 
 const Link = styled.a`
   color: black;
   padding: 5px;
+  float: left;
 `;
 
 const Copyright = styled.div`
@@ -46,13 +48,13 @@ const Footer = () => (
           >
             <FontAwesomeIcon icon={faInstagram} />
           </Link>
-          {/* <Link
+          <Link
             target="_blank"
             rel="noopener noreferrer"
             href="https://www.facebook.com/Gharwalaswad"
           >
             <FontAwesomeIcon icon={faFacebookF} />
-          </Link> */}
+          </Link>
         </div>
       </div>
     </Text>

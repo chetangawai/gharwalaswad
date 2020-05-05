@@ -5,27 +5,33 @@ import Helmet from 'react-helmet';
 import styled from '@emotion/styled';
 import { Header, PostList } from 'components';
 import { Layout } from 'layouts';
+import config from '../../config/site';
 
 const PostWrapper = styled.div`
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: flex-start;
   margin: 4rem 4rem 1rem 4rem;
   @media (max-width: 1000px) {
     margin: 4rem 2rem 1rem 2rem;
   }
   @media (max-width: 700px) {
-    margin: 4rem 1rem 1rem 1rem;
+    margin: 2rem 2rem 2rem 0rem;
   }
+ min-height: 100vh; /* will cover the 100% of viewport */
+ overflow: hidden;
+
+ position: relative;
+ padding-bottom: 80px; /* height of your footer */
 `;
 
 const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'Gharwalaswad'} />
-      <Header title="Gharwalaswad"></Header>
+      <Helmet title={config.title} />
+      <Header title={config.title} logo={config.logo}></Header>
       <PostWrapper>
         {edges.map(({ node }) => {
           const { id, excerpt, frontmatter } = node;

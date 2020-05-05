@@ -7,6 +7,7 @@ import theme from '../../config/theme';
 
 const Wrapper = styled.article`
   margin-bottom: 2rem;
+  margin-left: 2rem;
   position: relative;
   z-index: 100;
   border-radius: ${props => props.theme.borderRadius.default};

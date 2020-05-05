@@ -11,7 +11,7 @@ const Wrapper = styled.header`
     clip-path: polygon(100% 0, 0 0, 0 90%, 50% 100%, 100% 90%);
   }
   background: ${props => props.theme.gradient.rightToLeft};
-  height: 150px;
+  height: 300px;
   @media (max-width: ${props => props.theme.breakpoints.m}) {
     height: 300px;
   }
@@ -39,17 +39,20 @@ const Text = styled.div`
   align-items: center;
 `;
 
+const Logo = styled.img`
+width: 80px;
+height: 80px;
+`
 const Subtitle = styled.p`
   max-width: 650px;
   color: ${props => props.theme.colors.black.light};
 `;
 
-const Header = ({ children, title, date }) => (
+const Header = ({ children, title, date, logo }) =>(
   <Wrapper>
     <Text>
-      <h2>{title}</h2>
-      <p> {date && `By Chetan | ${formatDate(date)}`}</p>
-
+      <h1>{title}</h1>
+      {date && <p>By Chetan | {formatDate(date)}</p>}
       {children && <Subtitle>{children}</Subtitle>}
     </Text>
   </Wrapper>
