@@ -9,12 +9,8 @@ import config from '../../config/site';
 
 const StyledLink = styled(Link)`
   color: ${props => props.theme.colors.black.light};
-  padding: 5px 10px;
-  border: solid 1px #fff;
-  border-radius: 20px;
   &:hover {
-    color: ${props => props.theme.colors.black.blue};
-    background: ${props => props.theme.colors.black.light};
+    color: #ffb1ad;
   }
 `;
 
@@ -31,16 +27,15 @@ const Tag = ({ pageContext }) => {
   const upperTag = tagName.charAt(0).toUpperCase() + tagName.slice(1);
   return (
     <Layout>
-      <Helmet title={`${tagName} | ${config.siteTitle}`} />
+      <Helmet title={`${upperTag} | ${config.title}`} />
       <Header title={upperTag}>
-        <StyledLink to="/tags">All Tags</StyledLink>
       </Header>
       <Container>
         <Information>
           {posts.map((post, index) => (
-            <Link key={index} to={post.frontmatter.path}>
+            <StyledLink key={index} to={post.frontmatter.path}>
               <h3>{post.frontmatter.title}</h3>
-            </Link>
+            </StyledLink>
           ))}
         </Information>
       </Container>

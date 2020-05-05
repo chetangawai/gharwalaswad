@@ -65,6 +65,13 @@ const Image = styled.div`
   }
 `;
 
+const StyledLink = styled(Link)`
+  color: ${props => props.theme.colors.black.light};
+  &:hover {
+    color: #ffb1ad;
+  }
+`;
+
 const Post = ({ data, pageContext }) => {
   const { next, prev } = pageContext;
   const { html, frontmatter, excerpt } = data.markdownRemark;
@@ -73,7 +80,6 @@ const Post = ({ data, pageContext }) => {
   const otherImage = frontmatter.images
     ? frontmatter.images.childImageSharp.fluid
     : null;
-  console.log('frontmatter', frontmatter);
 
   return (
     <Layout>
@@ -104,16 +110,16 @@ const Post = ({ data, pageContext }) => {
       <SuggestionBar>
         <PostSuggestion>
           {prev && (
-            <Link to={prev.frontmatter.path}>
+            <StyledLink to={prev.frontmatter.path}>
               <p>Previous ( {prev.frontmatter.title} )</p>
-            </Link>
+            </StyledLink>
           )}
         </PostSuggestion>
         <PostSuggestion>
           {next && (
-            <Link to={next.frontmatter.path}>
+            <StyledLink to={next.frontmatter.path}>
               <p> Next ( {next.frontmatter.title} )</p>
-            </Link>
+            </StyledLink>
           )}
         </PostSuggestion>
       </SuggestionBar>

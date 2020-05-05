@@ -10,6 +10,7 @@ const Wrapper = styled.section`
   max-width: ${props => props.theme.layout[props.type]};
   height: 100%;
   flex: 1;
+  min-height: 100vh;
 
   @media (max-width: ${props => props.theme.breakpoints.m}) {
     width: 90%;

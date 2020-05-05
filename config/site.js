@@ -3,8 +3,8 @@ module.exports = {
   title: 'Gharwalaswad', // Navigation and Site Title
   titleAlt: 'Gharwalaswad', // Title for JSONLD
   description: 'Gharwalaswad - A Food blog',
-  url: 'https://gatsby-tutorial-starter.netlify.com', // Domain of your site. No trailing slash!
-  siteUrl: 'https://gatsby-tutorial-starter.netlify.com', // url + pathPrefix
+  url: 'http://gharwalaswad.com/', // Domain of your site. No trailing slash!
+  siteUrl: 'http://gharwalaswad.com/', // url + pathPrefix
   siteLanguage: 'en', // Language Tag on <html> element
   logo: '/logo/logo.png', // Used for SEO
   banner: 'static/logo/banner.png',
