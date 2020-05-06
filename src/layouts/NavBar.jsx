@@ -40,7 +40,7 @@ const NavBar = () => (
     </StyledLink>
     <Nav>
       <Link to="/">Home</Link>
-      <Link to="/about">About</Link>
+      <Link to="/about">About me</Link>
     </Nav>
   </Headroom>
 );

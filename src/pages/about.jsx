@@ -21,7 +21,7 @@ const About = center => (
       <h3>Hello Foodies,</h3>
       <p>
         I am Chetan, a full-time Software Professional on weekdays and a Chef on
-        weekends.
+        weekends. To know me more checkout <a href='https://chetangawai.com/' target='_blank' rel='noopener noreferrer'>my portfolio</a>.
       </p>
       <p>Welcome to my food blog and thanks for stopping by.</p>
       <p>
