@@ -4,6 +4,7 @@ import Img from 'gatsby-image';
 import styled from '@emotion/styled';
 import PropTypes from 'prop-types';
 import theme from '../../config/theme';
+import { OutboundLink } from "gatsby-plugin-google-analytics"
 
 const Wrapper = styled.article`
   margin-bottom: 2rem;
@@ -111,11 +112,13 @@ const PostList = ({ cover, path, date, title, excerpt }) => (
     <Image>
       <Img fluid={cover} />
     </Image>
+    <OutboundLink to={path}>
     <StyledLink to={path}>
       <Info>
         <Title>{title}</Title>
       </Info>
     </StyledLink>
+    </OutboundLink>
   </Wrapper>
 );
 
