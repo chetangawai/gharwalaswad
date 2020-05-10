@@ -21,14 +21,14 @@ const About = center => (
       <h3>Hello Foodies,</h3>
       <p>
         I am Chetan, a full-time Software Professional on weekdays and a Chef on
-        weekends. To know me more checkout <a href='https://chetangawai.com/' target='_blank' rel='noopener noreferrer'>my portfolio</a>.
+        weekends. To know more about me you can checkout <a href='https://chetangawai.com/' target='_blank' rel='noopener noreferrer'>my portfolio</a>.
       </p>
       <p>Welcome to my food blog and thanks for stopping by.</p>
       <p>
         Here, you will find all the recipes which I have cooked in my home
         kitchen. My family has been my taste-tester. The motto behind this blog
         is to keep track of all the recipes I have learned from my mom,
-        mother-in-law, sister and my own ;) .
+        mother-in-law, sister and my own 😜.
       </p>
       <div>
         <h6>How did I start blogging?</h6>
@@ -37,9 +37,8 @@ const About = center => (
           I posted a picture of dish prepared by me on Instagram. I got lot of
           likes which further motivated me to start blogging. My husband pushed
           me up to build a blogging website along with posting recipes on
-          Instagram. March-April 2020 was a lockdown period in India as the
-          deadly Corona virus gripped complete world. This meant stepping out
-          only for getting essentials. I used this surplus time to build this
+          Instagram. March-April 2020 was a lockdown period in most of the countries as the
+          deadly Corona virus gripped the complete world. I used this surplus time to build this
           blogging website. From then I am regularly posting my recipes.
         </p>
       </div>
