@@ -30,7 +30,7 @@ const Logo = styled.img`
 width: 150px;
 
 @media (max-width: 700px) {
-  width: 70px;
+  width: 40px;
 }
 `
 const NavBar = () => (

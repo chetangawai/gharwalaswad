@@ -3,7 +3,7 @@ import theme from '../../config/theme';
 
 const headroom = css`
   .headroom-wrapper {
-    position: fixed;
+    position: absolute;
     width: 100%;
     z-index: 2000;
     top: 0;
