@@ -6,6 +6,8 @@ import { Layout, Container, Content } from 'layouts';
 import { TagsBlock, Header, SEO } from 'components';
 import '../styles/prism';
 import Img from 'gatsby-image';
+import Share from '../components/Share';
+import config from '../../config/site'
 
 const SuggestionBar = styled.div`
   display: flex;
@@ -73,10 +75,12 @@ const StyledLink = styled(Link)`
 `;
 
 const Post = ({ data, pageContext }) => {
-  const { next, prev } = pageContext;
+  const { next, prev, pathSlug } = pageContext;
+  const {url, twitterHandle } = config;
   const { html, frontmatter, excerpt } = data.markdownRemark;
   const { date, title, tags, path, description } = frontmatter;
   const image = frontmatter.cover.childImageSharp.fluid;
+  const seoImage = frontmatter.cover.childImageSharp.fluid.src;
   const otherImage = frontmatter.images
     ? frontmatter.images.childImageSharp.fluid
     : null;
@@ -86,26 +90,32 @@ const Post = ({ data, pageContext }) => {
       <SEO
         title={title}
         description={description || excerpt || ' '}
-        banner={image}
-        pathname={path}
+        banner={seoImage}
+        pathname={`${url}${pathSlug}`}
         article
       />
       <Header title={title} cover={image} date={date} />
       <Container>
         <Image>
-          <Link to={path} title={title}>
             <Img fluid={image} />
-          </Link>
         </Image>
         <Content input={html} />
         {otherImage && (
           <Image>
-            <Link to={path} title={title}>
               <Img fluid={otherImage} />
-            </Link>
           </Image>
         )}
         <TagsBlock list={tags || []} />
+        <Share
+				socialConfig={{
+					twitterHandle,
+					config: {
+            url: `${url}${pathSlug}?${Math.random()}`,
+						title,
+					},
+				}}
+				tags={tags}
+			/>
       </Container>
       <SuggestionBar>
         <PostSuggestion>
