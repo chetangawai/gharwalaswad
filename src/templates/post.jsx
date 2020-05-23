@@ -56,14 +56,16 @@ const Image = styled.div`
   flex-basis: 100%;
   max-width: 100%;
   width: 100%;
-  @media (max-width: 800px) {
+  @media screen (max-width: ${props => props.theme.breakpoints.s}), 
+  (max-width: ${props => props.theme.breakpoints.xs}), 
+  (max-width: ${props => props.theme.breakpoints.m}), 
+  (max-width: ${props => props.theme.breakpoints.l}) {
     flex-basis: 100%;
     max-width: 100%;
     width: 100%;
     margin-bottom: 1.5rem;
-  }
-  @media (max-width: 500px) {
-    min-height: 200px;
+    max-height: 100%;
+    min-height: auto;
   }
 `;
 

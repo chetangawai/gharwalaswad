@@ -27,10 +27,14 @@ const Nav = styled.nav`
 `;
 
 const Logo = styled.img`
-width: 150px;
-
-@media (max-width: 700px) {
+width: 80px;
+@media screen (max-width: ${props => props.theme.breakpoints.s}), 
+(max-width: ${props => props.theme.breakpoints.xs}), 
+(max-width: ${props => props.theme.breakpoints.m}) {
   width: 40px;
+}
+@media screen (max-width: ${props => props.theme.breakpoints.l}) {
+  width: 60px;
 }
 `
 const NavBar = () => (

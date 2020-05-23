@@ -39,19 +39,21 @@ const Text = styled.div`
   align-items: center;
 `;
 
-const Logo = styled.img`
-width: 80px;
-height: 80px;
+const H1Text = styled.h1`
+@media screen (max-width: ${props => props.theme.breakpoints.s}), 
+(max-width: ${props => props.theme.breakpoints.xs}), 
+(max-width: ${props => props.theme.breakpoints.m}) {
+  font-size: 1rem;
+}
+@media (max-width: (max-width: ${props => props.theme.breakpoints.l}) {
+  font-size: 1.4rem;
+}
 `
-const Subtitle = styled.p`
-  max-width: 650px;
-  color: ${props => props.theme.colors.black.light};
-`;
 
-const Header = ({ children, title, date, logo }) =>(
+const Header = ({ children, title, date }) =>(
   <Wrapper>
     <Text>
-      <h1>{title}</h1>
+      <H1Text>{title}</H1Text>
       {date && <p>By Chetan | {formatDate(date)}</p>}
       {children && <Subtitle>{children}</Subtitle>}
     </Text>
