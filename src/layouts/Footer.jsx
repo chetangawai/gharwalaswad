@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from '@emotion/styled';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faInstagram, faFacebookF } from '@fortawesome/free-brands-svg-icons';
+import { faInstagram, faFacebookF, faTwitter, faYoutube, faPinterest, faReddit } from '@fortawesome/free-brands-svg-icons';
 
 const Wrapper = styled.footer`
   margin: 0;
@@ -54,6 +54,34 @@ const Footer = () => (
             href="https://www.facebook.com/Gharwalaswad"
           >
             <FontAwesomeIcon icon={faFacebookF} />
+          </Link>
+          <Link
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://twitter.com/gharwalaswad"
+          >
+            <FontAwesomeIcon icon={faTwitter} />
+          </Link>
+          <Link
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://www.youtube.com/channel/UC4gJ0K54-_pKeo8435pPZ3Q"
+          >
+            <FontAwesomeIcon icon={faYoutube} />
+          </Link>
+          <Link
+            target="_blank"
+            rel="noopener noreferrer"
+            href=" https://in.pinterest.com/gharwalaswad"
+          >
+            <FontAwesomeIcon icon={faPinterest} />
+          </Link>
+          <Link
+            target="_blank"
+            rel="noopener noreferrer"
+            href=" https://in.pinterest.com/gharwalaswad/"
+          >
+            <FontAwesomeIcon icon={faReddit} />
           </Link>
         </div>
       </div>
