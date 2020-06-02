@@ -47,8 +47,12 @@ const H1Text = styled.h1`
 }
 @media (max-width: (max-width: ${props => props.theme.breakpoints.l}) {
   font-size: 1.4rem;
-}
-`
+}`;
+
+const Subtitle = styled.p`
+  max-width: 650px;
+  color: ${props => props.theme.colors.black.light};
+`;
 
 const Header = ({ children, title, date }) =>(
   <Wrapper>
