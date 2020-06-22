@@ -40,13 +40,9 @@ const Text = styled.div`
 `;
 
 const H1Text = styled.h1`
-@media screen (max-width: ${props => props.theme.breakpoints.s}), 
-(max-width: ${props => props.theme.breakpoints.xs}), 
-(max-width: ${props => props.theme.breakpoints.m}) {
+
+@media (max-width: ${props => props.theme.breakpoints.l}) {
   font-size: 1rem;
-}
-@media (max-width: (max-width: ${props => props.theme.breakpoints.l}) {
-  font-size: 1.4rem;
 }`;
 
 const Subtitle = styled.p`
