@@ -72,7 +72,7 @@ const Image = styled.div`
 const StyledLink = styled(Link)`
   color: ${props => props.theme.colors.black.light};
   &:hover {
-    color: #ffb1ad;
+    color: #ec4636;
   }
 `;
 
@@ -123,14 +123,14 @@ const Post = ({ data, pageContext }) => {
         <PostSuggestion>
           {prev && (
             <StyledLink to={prev.frontmatter.path}>
-              <p>Previous ( {prev.frontmatter.title} )</p>
+              <p>Previous</p>
             </StyledLink>
           )}
         </PostSuggestion>
         <PostSuggestion>
           {next && (
             <StyledLink to={next.frontmatter.path}>
-              <p> Next ( {next.frontmatter.title} )</p>
+              <p> Next</p>
             </StyledLink>
           )}
         </PostSuggestion>

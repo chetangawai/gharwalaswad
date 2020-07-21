@@ -28,6 +28,7 @@ const headroom = css`
   }
   .headroom--scrolled {
     transition: ${theme.transitions.headroom.transition};
+    background: linear-gradient(45deg,#fff5c5 0%,#ffabab 100%)
   }
   .headroom--unpinned {
     position: fixed;
@@ -52,7 +53,7 @@ const headroom = css`
       }
     }
     padding-top: 0.75rem;
-    padding-bottom: 0.75rem;
+    padding-bottom: 0;
     svg {
       height: 2.5rem;
       g {

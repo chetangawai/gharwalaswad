@@ -79,7 +79,7 @@ const Footer = () => (
           <Link
             target="_blank"
             rel="noopener noreferrer"
-            href=" https://in.pinterest.com/gharwalaswad/"
+            href=" https://www.reddit.com/user/gharwalaswad"
           >
             <FontAwesomeIcon icon={faReddit} />
           </Link>

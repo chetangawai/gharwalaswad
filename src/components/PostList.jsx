@@ -103,7 +103,7 @@ const Info = styled.div`
   left: 0;
 `;
 
-const Title = styled.h4`
+const Title = styled.p`
   margin-bottom: 0.6rem;
 `;
 

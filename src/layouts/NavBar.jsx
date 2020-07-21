@@ -21,20 +21,20 @@ const Nav = styled.nav`
     margin-left: 2rem;
     transition: all ${props => props.theme.transitions.default.duration};
     &:hover {
-      color: ${props => props.theme.colors.white.grey};
+      color: #ec4636;
     }
   }
 `;
 
 const Logo = styled.img`
-width: 80px;
+width: 60px;
 @media screen (max-width: ${props => props.theme.breakpoints.s}), 
 (max-width: ${props => props.theme.breakpoints.xs}), 
 (max-width: ${props => props.theme.breakpoints.m}) {
-  width: 40px;
+  width: 33px;
 }
 @media screen (max-width: ${props => props.theme.breakpoints.l}) {
-  width: 60px;
+  width: 50px;
 }
 `
 const NavBar = () => (
