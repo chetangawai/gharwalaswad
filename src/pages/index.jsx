@@ -79,7 +79,6 @@ Index.propTypes = {
 export const query = graphql`
   query {
     allMarkdownRemark(
-      limit: 6
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
