@@ -10,7 +10,7 @@ tags: ['icecream', 'desserts']
 ---
 
 <p>
-You scream, I cream, we all scream for ice cream! And what makes it more delicious and refreshing is the fresh flavour of Mango, the king of fruits! 
+You scream, I scream, we all scream for ice cream! And what makes it more delicious and refreshing is the fresh flavour of Mango, the king of fruits! 
 <p>Making ice creams at home is so much fun, especially for kids. Sharing a simple recipe with minimum ingredients and effort.</p>
  
 <p>
