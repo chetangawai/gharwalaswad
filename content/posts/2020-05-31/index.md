@@ -9,70 +9,59 @@ published: true
 tags: ['pizza', 'fast-food']
 ---
 
-<p>
  What do you do when you call a friend for lunch/dinner and he/she demands something different than the traditional meals?
  Hmmm🤔!! Confused? Surprise your friend with a homemade pizza🙂🙂.
-<p>
 
-<p>Without wasting much time let's checkout the recipe.</p>
+Without wasting much time let's checkout the recipe.
 
-<h3>Ingredients:</h3>
+### Ingredients:###
 
-<ol>
-<li>Mozzarella cheese </li>
-<li>Cheese spread</li>
-<li>3 tbsp of tomato ketchup</li>
-<li>2 tbsp of oregano</li>
-<li>2 tbsp of chilli flakes</li>
-<li>Toppings of your choice (capsicum, tomatoes, onions, corns, olives, mushrooms)</li>
-<li>Ready made pizza base</li>
-<li>1 bowl of salt</li>
-</ol>
+1. Mozzarella cheese
+2. Cheese spread
+3. 3 tbsp of tomato ketchup
+4. 2 tbsp of oregano
+5. 2 tbsp of chilli flakes
+6. Toppings of your choice (capsicum, tomatoes, onions, corns, olives, mushrooms)
+7. Ready made pizza base
+8. 1 bowl of salt
 
-<p><b>Servings:</b> 2<br>
-<b>Cooking Time: </b>50 minutes<br>
-<b>Cuisine: </b>Italian<br>
-</p>
+**Servings:** 2
 
-<h3>Method:</h3>
+**Cooking Time:** 50 minutes
 
-<p> You can checkout the video recipe here -</p>
+**Cuisine:** Italian
 
+### Method:###
+
+You can checkout the video recipe here -
 `youtube: CQRoHbzVh9E`
 
-<p>
-  <b>How to prepare Pizza sauce?</b>
-  <ol>
-    <li>In a bowl, take 3 tbsp of tomato ketchup. </li>
-    <li>Add 1 tbsp chilli flakes and oregano.</li>
-    <li>Mix well.</li>
-  </ol>
-</p>
-<p>
-  <b>Prepare pizza</b>
-  <ol>
-    <li>Take a ready made pan pizza base. Cut the base horizontally into two parts.</li>
-<li>Apply a thick layer of cheese spread on one of the bases. </li>
-<li>Cover it by other base.</li>
-<li>Apply a layer of pizza sauce.</li>
-<li>Prick the base with a knife. This helps to cook pizza quickly.</li>
-<li>To get a delicious flavour of cheese busrt pizza, sprinkle a nice layer of grated mozzarella cheese.</li>
-<li>Add the toppings of your choice.</li>
-<li>Sprinkle 1 tablespoon of chilli flakes and oregano over it.</li>
-</ol>
-</p>
+  **How to prepare Pizza sauce?**
 
-<p>
-<b>Pizza baking</b>
-<ol>
-<li>Add 1 cup of salt in a cooker.</li>
-<li>Preheat cooker on medium flame for 5 minutes.</li>
-<li>Place the pizza over a plate/container and put it carefully in the cooker.</li>
-<li>Remove the whistle of cooker and place the lid.</li>
-<li>Bake the pizza on medium flame till the base turns light brown.</li>
-<li>After 20-25 minutes, open the lid and remove the pizza cautiously.</li>
-</ol>
-</p>
-<p>Toss some more chilli flakes and oregano over the pizza and enjoy it hot with ketchup and a soft drink.</p>
+  1. In a bowl, take 3 tbsp of tomato ketchup.
+  2. Add 1 tbsp chilli flakes and oregano.
+  3. Mix well.
 
-<h3>Happy Pizza time! Take a bite.</h3>
+  **Prepare pizza**
+
+  1. Take a ready made pan pizza base. Cut the base horizontally into two parts.
+  2. Apply a thick layer of cheese spread on one of the bases. 
+  3. Cover it by other base.
+  4. Apply a layer of pizza sauce.
+  5. Prick the base with a knife. This helps to cook pizza quickly.
+  6. To get a delicious flavour of cheese burst pizza, sprinkle a nice layer of grated mozzarella cheese.
+  7. Add the toppings of your choice.
+  8. Sprinkle 1 tablespoon of chilli flakes and oregano over it.
+
+**Pizza baking**
+
+1. Add 1 cup of salt in a cooker.
+2. Preheat cooker on medium flame for 5 minutes.
+3. Place the pizza over a plate/container and put it carefully in the cooker.
+4. Remove the whistle of cooker and place the lid.
+5. Bake the pizza on medium flame till the base turns light brown.
+6. After 20-25 minutes, open the lid and remove the pizza cautiously.
+
+Toss some more chilli flakes and oregano over the pizza and enjoy it hot with ketchup and a soft drink.
+
+Happy Pizza time! Take a bite.

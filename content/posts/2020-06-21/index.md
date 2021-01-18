@@ -9,81 +9,67 @@ published: true
 tags: ['gujaratisnacks', 'snacks', 'maharashtriansnacks']
 ---
 
-<p>
- <b>Khandvi</b> is a soft and yummy roll that is packed with flavors from besan, curd, green chilies and ginger along with the sesame tadka. 
- It is highly popular Gujarati snack which is easy to digest and high in protein. Getting the right Khandvi is an art which comes in with experience. 
- The tricky part is cooking the batter to the perfect consistency. 
-<p>
+ **Khandvi**  is a soft and yummy roll that is packed with flavors from besan, curd, green chilies and ginger along with the sesame tadka.
+ It is highly popular Gujarati snack which is easy to digest and high in protein. Getting the right Khandvi is an art which comes in with experience.
+ The tricky part is cooking the batter to the perfect consistency.
 
-<p>Let us dig into the recipe. </p>
+Let us dig into the recipe.
 
-<h3>Ingredients:</h3>
+### Ingredients###
 
-<ol>
+  1. Besan (Gram flour), curd - 1 cup
+  2. Water-2 cups
+  3. Ginger-green chilli paste, - 1 tbsp
+  4. Turmeric, Hing - 1/4 tsp
+  5. Sesame, mustard, cumin seeds - 1 tsp
+  6. Curry leaves - 5 to 6
+  7. Salt - 1/2 tsp
+  8. Freshly grated coconut - 4 tbsp
+  9. Finely chopped coriander - Handful
+  10. Oil - 2 to 3 tbsp
 
-  <li>Besan (Gram flour), curd - 1 cup</li>
-	<li>Water -	2 cups</li>
-	<li>Ginger-green chilli paste, 	- 1 tbsp</li>
-	<li>Turmeric, Hing - 1/4 tsp</li>
-	<li>Sesame, mustard, cumin seeds - 1 tsp</li>
-	<li>Curry leaves -	5-6 </li>
-	<li>Salt -	1/2 tsp</li>
-	<li>Fresly grated cocunut	- 4 tbsp</li>
-	<li>Finely chopped coriander -	Handful</li>
-  <li>Oil - 2-3 tbsp</li>
-</ol>
+**Servings:**  20-24 khandvis
 
-<p><b>Servings:</b> 20-24 khandvis<br>
-<b>Cooking Time: </b>30 - 35 minutes<br>
-<b>Cuisine: </b>Gujarati, Maharashtrian ( Indian )<br>
-</p>
+**Cooking Time:** 30 - 35 minutes
 
-<h3>Method:</h3>
+**Cuisine:** Gujarati, Maharashtrian ( Indian )
 
-<p> You can checkout the video recipe here -</p>
+### Method:###
 
-`youtube: kzjqUb3Y1V4` 
+You can checkout the video recipe here -
 
-<p>
-  <b>Prepare batter</b>
-  <ol>
-   <li>Take 1 cup of besan (gram flour) and curd in a bowl. </li>
-<li>Add 1 tsp ginger-chilli paste, 1/4 tsp turmeric, 1/2 tsp salt and 1/4 tsp hing. </li>
-<li>Pour 2 cups of water. </li>
-<li>Mix it well with the help of whisk to remove any lumps and get a smooth batter. </li>
-<li>Strain the batter with a strainer to remove leftover lumps. </li>
-  </ol>
-</p>
+`youtube: kzjqUb3Y1V4`
 
-<p>
-<b>Tempering</b>
-<ol>
-<li>Heat 2 tbsp of oil in a pan. </li>
-<li>Add mustard seeds, cumin seeds, a pinch of hing, few curry leaves and let them splutter. </li>
-<li>Toss some sesame seeds (til) and freshly grated coconut. </li>
-<li>Switch off the gas in 30-40 seconds. Do not cook the coconut for long. We want to enjoy the fresh flavour of coconut. </li>
-</ol>
-</p>
+**Prepare batter**
 
-<p>
-  <b>Khandvi preparation</b>
-  <ol>
-  <li>In a wide pan pour the batter. </li>
-  <li>Cook it on medium flame. </li>
-<li>Stir it continuously till the batter begins to thicken and you reach paste-like consistency. 
+1. Take 1 cup of besan (gram flour) and curd in a bowl.
+2. Add 1 tsp ginger-chilli paste, 1/4 tsp turmeric, 1/2 tsp salt and 1/4 tsp hing.
+3. Pour 2 cups of water.
+4. Mix it well with the help of whisk to remove any lumps and get a smooth batter.
+5. Strain the batter with a strainer to remove leftover lumps.
+
+**Tempering**
+
+1. Heat 2 tbsp of oil in a pan.
+2. Add mustard seeds, cumin seeds, a pinch of hing, few curry leaves and let them splutter.
+3. Toss some sesame seeds (til) and freshly grated coconut.
+4. Switch off the gas in 30-40 seconds. Do not cook the coconut for long. We want to enjoy the fresh flavour of coconut.
+
+**Khandvi preparation**
+
+1. In a wide pan pour the batter.
+2. Cook it on medium flame.
+3. Stir it continuously till the batter begins to thicken and you reach paste-like consistency.
     It will take approximately 10-12 minutes to cook. Getting this right is the tricky part of Khandvi.
-  <br> <b>Note:</b>  To check for the right consistency, spread a small amount of batter on an inverted plate. Let it cool for a minute and then try to peel and roll. If this can be achieved properly then your batter is ready for rolls otherwise let it cook for some more time.
+  **Note:**   To check for the right consistency, spread a small amount of batter on an inverted plate. Let it cool for a minute and then try to peel and roll. If this can be achieved properly then your batter is ready for rolls otherwise let it cook for some more time.
 
-</li>
-<li>Meanwhile, grease 2-3 big sized inverted plates with oil so as to ease rolling. </li>
-<li>Quickly spread a thin layer of batter evenly on each plate before the batter cools down. Once the batter is cooled it will be difficult to make rolls. </li>
-<li>Sparingly pour the seasoned tempering on each plate. </li>
-<li>Sprinkle few finely chopped coriander leaves. </li>
-<li>Let the batter cool for 1-2 minutes. </li>
-<li>Cut into strips two inches wide. </li>
-<li>Roll each strip tightly and carefully. </li>
-<li>Arrange the khandvis in a plate and garnish them with leftover tempering and finely chopped fresh coriander leaves. </li>
-</ol>
-</p>
+4. Meanwhile, grease 2-3 big sized inverted plates with oil so as to ease rolling.
+5. Quickly spread a thin layer of batter evenly on each plate before the batter cools down. Once the batter is cooled it will be difficult to make rolls.
+6. Sparingly pour the seasoned tempering on each plate.
+7. Sprinkle few finely chopped coriander leaves.
+8. Let the batter cool for 1-2 minutes.
+9. Cut into strips two inches wide.
+10. Roll each strip tightly and carefully.
+11. Arrange the khandvis in a plate and garnish them with leftover tempering and finely chopped fresh coriander leaves.
 
-<p>Serve the Khandvis hot with any chutney or ginger tea. </p>
+Serve the Khandvis hot with any chutney or ginger tea.

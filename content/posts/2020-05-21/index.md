@@ -7,43 +7,37 @@ title: "Satisfy your dessert cravings with healthy chocolate fruit custard!"
 published: true
 tags: ['desserts', 'fruit custard']
 ---
-<p>
  
- <b>Fruit custard</b> is a light, refreshing and delicious creamy dessert.
+ **Fruit custard** is a light, refreshing and delicious creamy dessert.
  It can be a great treat to your guests, family and friends during summer.
-</p>
-<p>
-Custard was traditionally prepared at home using cream, milk and eggs. Now, we get ready-made custard powder in various flavours. I have used chocolate custard powder bought from market. 
 
-<p>Learn how to make fruit custard by following the recipe below.</p>
+Custard was traditionally prepared at home using cream, milk and eggs. Now, we get ready-made custard powder in various flavours. I have used chocolate custard powder bought from market.
 
-<h3>Ingredients:</h3>
+Learn how to make fruit custard by following the recipe below.
 
-<ol>
-<li>2 cups (500ml) + 1/4 cup Milk </li>
-<li>1/4 cup Sugar</li>
-<li>2 tablespoons custard powder ( I used chocolate custard)</li>
-<li>Chopped seasonal fruits of your choice like apple, banana, pomegranate, grapes, strawberry, papaya and kiwi. Avoid citric and watery fruits.</li>
-<li>Sliced dry fruits</li>
-</ol>
+### Ingredients:###
 
-<p><b>Servings: 2</b><br>
-<b>Cooking Time: </b>20 minutes<br>
-</p>
+1. 2 cups (500ml) + 1/4 cup Milk
+2. 1/4 cup Sugar
+3. 2 tablespoons custard powder ( I used chocolate custard)
+4. Chopped seasonal fruits of your choice like apple, banana, pomegranate, grapes, strawberry, papaya and kiwi. Avoid citric and watery fruits.
+5. Sliced dry fruits
 
-<h3>Method:</h3>
+**Servings: 2**
 
-<ol>
-<li>Heat 2 cups of milk in a broad container over medium flame. Keep stirring occasionally.</li>
-<li>Add 1/4 cup of sugar when the milk comes to boil.</li>
-<li>In the meanwhile, take 1/4th cup of warm milk in a bowl and add 2 tablespoons of custard powder. If you are using vanilla custard, add 1 tablespoon of cocoa powder to get the chocolate flavor.</li>
-<li>Turn off the flame to avoid forming lumps and then pour the custard powder into the milk.  </li>
-<li>Now, cook the mixture on low flame (approx 5-7 minutes) until it starts to thicken. Keep stirring continuously to prevent sticking.</li>
-<li>Turn off the flame and let it cool.</li>
-<li>Refrigerate it for about an hour.</li>
-<li>Add chopped fruits of your choices and the fruit custard is ready.</li>
-</ol>
+**Cooking Time:** 20 minutes
 
-<p>Garnish the fruit custard with slices of dry fruits, jelly and some chocolate syrup and serve it chilled.</p>
+### Method:###
 
-<h3>Happy Desserting 😄😄</h3>
+1. Heat 2 cups of milk in a broad container over medium flame. Keep stirring occasionally.
+2. Add 1/4 cup of sugar when the milk comes to boil.
+3. In the meanwhile, take 1/4th cup of warm milk in a bowl and add 2 tablespoons of custard powder. If you are using vanilla custard, add 1 tablespoon of cocoa powder to get the chocolate flavor.
+4. Turn off the flame to avoid forming lumps and then pour the custard powder into the milk.
+5. Now, cook the mixture on low flame (approx 5-7 minutes) until it starts to thicken. Keep stirring continuously to prevent sticking.
+6. Turn off the flame and let it cool.
+7. Refrigerate it for about an hour.
+8. Add chopped fruits of your choices and the fruit custard is ready.
+
+Garnish the fruit custard with slices of dry fruits, jelly and some chocolate syrup and serve it chilled.
+
+### Happy Desserting 😄😄###
