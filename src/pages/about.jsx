@@ -23,7 +23,7 @@ const About = center => (
         I am Chetan, a full-time Software Professional on weekdays and a Chef on
         weekends.
       </p>
-      <p>Welcome to my food blog and thanks for stopping by.</p>
+      <p>Welcome to my food blog and thanks for stopping by!</p>
       <p>
         Here, you will find all the recipes which I have cooked in my home
         kitchen. My family has been my taste-tester. The motto behind this blog
