@@ -28,8 +28,8 @@ module.exports = {
         //You can add multiple tracking ids and a pageview event will be fired for all of them.
         trackingIds: [
           process.env.GOOGLE_ANALYTICS_TRACKING_ID, //old GA
-          process.env.GOOGLE_ANALYTICS_TRACKING_ID_GA4, //5212815065
-          process.env.GOOGLE_ANALYTICS_MESAUREMENT_ID //G-XQGE289KR4
+          process.env.GOOGLE_ANALYTICS_TRACKING_ID_GA4, 
+          process.env.GOOGLE_ANALYTICS_MESAUREMENT_ID
         ],
         // This object gets passed directly to the gtag config command
         // This config will be shared across all trackingIds
